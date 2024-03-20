@@ -21,5 +21,6 @@ public class Variables{
 		System.out.println("Estado: " + estado);
 		System.out.println("Simbolo: " + simbolo);
 		System.out.println("Nombres: " + nombres);
+		
 	}
 }
